@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>لطفا اطلاعات درخواست شده را وارد نمایید</p>
+    <p>Please insert form fileds to register in DB</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
